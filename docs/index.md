@@ -1,4 +1,4 @@
-# Project Name: Introduction & Overview
+# Introduction & Overview
 
 ## Overview
 
