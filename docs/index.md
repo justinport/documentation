@@ -1,5 +1,7 @@
 # Introduction & Overview
 
+The markdown files located within the "docs" directory serve as a demonstration of how you can utilize documentation as code. You are encouraged to make changes, remove, insert, and revise files to align them with the specific needs of your project.
+
 ## Overview
 
 [Provide a brief summary of the project, its purpose, and its main functionalities.]
@@ -12,7 +14,7 @@ Explanation: This section should offer a concise overview of your project, expla
 - Feature 2: [Brief description]
 - ...
 
-Explanation: In this section, you should list the main features or functionalities of your project. Again, this is a template, and you should replace the placeholders with real features and descriptions relevant to your project.
+Explanation: In this section, you should list the main features or functionalities of your project. This is a template and you should replace the placeholders with real features and descriptions relevant to your project.
 
 ## Significance
 
