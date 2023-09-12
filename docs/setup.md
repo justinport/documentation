@@ -26,4 +26,3 @@
 
 [List and describe configurations and how to modify them.]
 
-[Link to the next page: Development & Contribution]

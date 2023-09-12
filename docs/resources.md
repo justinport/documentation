@@ -10,14 +10,6 @@
 
 [List common issues and solutions.]
 
-## Contacts & Support
-
-- Issue Tracker: [Link]
-- Forums: [Link]
-- Chat rooms: [Link]
-
 ## Changelog
 
 [List of version histories, updates, bug fixes.]
-
-[Back to Introduction & Overview]

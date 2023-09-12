@@ -15,5 +15,3 @@
 ## Deployment
 
 [Steps for deploying in various environments and necessary configurations.]
-
-[Link to the next page: Resources & Support]

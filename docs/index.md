@@ -22,4 +22,3 @@
 
 [Provide a short description or list of what to expect in the subsequent pages.]
 
-[Link to the next page: Setup & Usage]
